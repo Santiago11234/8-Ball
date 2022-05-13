@@ -14,7 +14,7 @@ Canvas2D.prototype.drawImage = function(image, position) {
 let Canvas = new Canvas2D;
 
 let image = new Image();
-image.src =  "background.png";
+image.src = 'background.png';
 
 
 
